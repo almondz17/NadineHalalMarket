@@ -239,6 +239,9 @@ form {
     .CFORM, .FINFO {max-width: 100%; width: 100%;}
     .nav-image {margin: 1rem 2rem 1rem 3.8rem;}
     h1 {font-size: 2.25rem; width: 100%;}
+    .navbar-brand {font-size: 1rem; margin-right: 0; padding-right: 0;}
+    .moon {padding-left: 0;}
+    .socials-image {max-width: 25%; width: 50%;}
 }
 
 @media only screen and (max-width: 1200px) {
@@ -250,33 +253,7 @@ form {
     .CFORM, .FINFO {max-width: 100%; width: 100%;}
     .nav-image {margin: 1rem 2rem 1.5rem 3.8rem;}
     h1 {font-size: 2.25rem; width: 100%;}
+    .navbar-brand {font-size: 1rem; margin-right: 0; padding-right: 0;}
+    .moon {padding-left: 0;}
+    .socials-image {max-width: 25%; width: 50%;}
 }
-
-
-/*
-// Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) { ... }
-
-// Medium devices (tablets, 768px and up)
-@media (min-width: 768px) { ... }
-
-// Large devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
-
-// Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { ... }
-
-.text {
-  color: black;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-@media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
-}
-*/
